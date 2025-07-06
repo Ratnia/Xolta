@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Bot",
+            "request": "launch",
+            "mainClass": "discord.Xotla.Bot",
+            "vmArgs": "-Xmx512m -Xms512m",
+            "projectName": "Xotla"
+        }
+    ]
+}
